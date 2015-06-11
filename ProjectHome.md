@@ -1,0 +1,1 @@
+Atomizer is a feedparser written in Erlang. It's goal is to support a wide range of syndication formats (RSS 0.92, 1.0, 2.0) and Atom.
